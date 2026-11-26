@@ -42,7 +42,7 @@
 
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/feed/foryou/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:tokyo6566lpu@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:tokyo6566lpu@gmail.com">tokyo6566lpu@gmail.com</a></p>
+<p align="center"><a href="https://www.linkedin.com/feed/foryou/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:tokyo6566lpu@gmail.com"><img src="https://img.shields.io/badge/Gmail-tokyo6566lpu%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: tokyo6566lpu@gmail.com" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=valkisushanth&theme=github-dark&mode=dark" />
